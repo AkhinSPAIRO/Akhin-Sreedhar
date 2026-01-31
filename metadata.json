@@ -1,0 +1,7 @@
+{
+  "name": "WLF Local Back-Channel",
+  "description": "An offline-first local network communication system for event management across multiple departments (Media, Stage, Tech, Hospitality, Security).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
